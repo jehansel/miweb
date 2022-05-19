@@ -6,3 +6,4 @@ Veamos como hacer para merge
 no pude comparar con pull .. haré otra prueba
 no funciono pull rebase
 le voy a agregar algo localmente para ver si existe conflicto
+usando DIFF desde la consola
