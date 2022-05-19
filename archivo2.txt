@@ -2,3 +2,5 @@ chanchito feliz archivo 2
 chanchito en nueva ramab
 vamos a ver donde estamos hoy 19/may/2022
 en qué rama estoy????  me parece que en branchVSCode
+
+voy a probar el boton de sync de abajo de VS Code
